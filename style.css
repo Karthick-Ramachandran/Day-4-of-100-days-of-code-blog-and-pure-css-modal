@@ -1,0 +1,19 @@
+details {
+  padding: 3rem;
+}
+summary {
+  padding: 1rem;
+  background: #eeef;
+  outline: none;
+}
+details-dialog {
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+details-dialog div {
+  background: darkgoldenrod;
+  padding: 3rem;
+  color: white;
+}
